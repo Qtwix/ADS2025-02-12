@@ -1,4 +1,4 @@
-package by.it.group451003.qtw1x.kishko.danila;
+package by.it.group451003.kishkodanila.lesson01;
 
 import java.math.BigInteger;
 
